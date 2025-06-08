@@ -5,18 +5,30 @@
 <script setup>
     import { onMounted, reactive } from 'vue';
     import provinces from '../../data/spain-provinces.json';
-    import svg from 'svg.js'
+    import generadoresEspana from '../../data/generadores_espana.json';
+    import generadoresPortugal from '../../data/generadores_portugal.json';
+    import svg from 'svg.js';
 
-    // Props
     const props = defineProps({
         id: {
             type: String,
             default: 'spain-map'
         }
-    })
+    });
 
-    // Emit
-    const emit = defineEmits(['mapClick'])
+    const emit = defineEmits([
+        'mapClick'
+    ]);
+
+    const generadores = [...generadoresEspana.generators, ...generadoresPortugal.generators];
+
+    function geoToSVG(lat, lon) {
+        // Debes implementar esta conversión según la escala del mapa SVG usado
+        return {
+            x: (lon + 17) * 50,
+            y: (45 - lat) * 50
+        };
+    };
 
     // Datos reactivos
     const mapAttr = reactive({
@@ -43,21 +55,32 @@
         })
     }
 
-    // Método: generar el mapa
     function generateMap() {
         const svgContainer = svg(props.id)
             .size('100%', '100%')
-            .viewbox(0, 0, mapAttr.viewBoxWidth, mapAttr.viewBoxHeight)
+            .viewbox(0, 0, 1000, 891);
 
         provinces.forEach((pathObj) => {
             generatePath(svgContainer, pathObj)
         })
+
+        // Añadir generadores como marcadores
+        generadores.forEach(gen => {
+            const coords = geoToSVG(gen.coordinates.lat, gen.coordinates.lon);
+            svgContainer.circle(4).attr({
+                            fill: 'red',
+                            cx: coords.x,
+                            cy: coords.y,
+                            title: `${gen.name} (${gen.capacity_MW} MW)`
+                        }).click(() => {
+                            emit('mapClick', gen);
+                        });
+        });
     }
 
-    // Lifecycle
     onMounted(() => {
-        generateMap()
-    })
+        generateMap();
+    });
 </script>
 
 <style lang="scss">
