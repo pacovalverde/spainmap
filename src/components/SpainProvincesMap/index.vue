@@ -4,7 +4,7 @@
 
 <script setup>
     import { onMounted, reactive } from 'vue';
-    import provinces from './spain-provinces.json';
+    import provinces from '../../data/spain-provinces.json';
     import svg from 'svg.js'
 
     // Props

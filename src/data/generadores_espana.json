@@ -1,0 +1,1019 @@
+{
+  "metadata": {
+    "title": "Generadores Eléctricos de España >10 MW",
+    "description": "Base de datos completa de instalaciones de generación eléctrica en España con capacidad superior a 10 MW",
+    "created_date": "2025-06-06T23:02:39.552695",
+    "sources": [
+      "Wikipedia - List of power stations in Spain",
+      "Red Eléctrica de España (REE)",
+      "Ministerio para la Transición Ecológica y el Reto Demográfico",
+      "CNMC - Comisión Nacional de los Mercados y la Competencia"
+    ],
+    "total_generators": 58,
+    "total_capacity_MW": 32108.6,
+    "types_included": [
+      "solar_térmica",
+      "hidroeléctrica",
+      "térmica_carbón",
+      "térmica_gas",
+      "solar_fotovoltaica",
+      "hidroeléctrica_bombeo",
+      "nuclear",
+      "eólica",
+      "ciclo_combinado"
+    ],
+    "coverage": "Península Ibérica, Islas Baleares, Islas Canarias, Ceuta y Melilla"
+  },
+  "generators": [
+    {
+      "name": "Central Hidroeléctrica de Aldeadávila",
+      "location": "Aldeadávila de la Ribera, Salamanca",
+      "coordinates": {
+        "lat": 41.2114,
+        "lon": -6.6869
+      },
+      "capacity_MW": 1200,
+      "type": "hidroeléctrica",
+      "operator": "Iberdrola",
+      "start_year": 1963,
+      "supply_regions": [
+        "Castilla y León",
+        "Extremadura",
+        "Centro"
+      ],
+      "province": "Salamanca",
+      "river": "Río Duero"
+    },
+    {
+      "name": "Central Hidroeléctrica de Alcántara",
+      "location": "Alcántara, Cáceres",
+      "coordinates": {
+        "lat": 39.7297,
+        "lon": -6.885
+      },
+      "capacity_MW": 916,
+      "type": "hidroeléctrica",
+      "operator": "Iberdrola",
+      "start_year": 1969,
+      "supply_regions": [
+        "Extremadura",
+        "Centro"
+      ],
+      "province": "Cáceres",
+      "river": "Río Tajo"
+    },
+    {
+      "name": "Central Hidroeléctrica de Almendra",
+      "location": "Almendra, Salamanca",
+      "coordinates": {
+        "lat": 41.2706,
+        "lon": -6.32
+      },
+      "capacity_MW": 857,
+      "type": "hidroeléctrica",
+      "operator": "Iberdrola",
+      "start_year": 1970,
+      "supply_regions": [
+        "Castilla y León",
+        "Centro"
+      ],
+      "province": "Salamanca",
+      "river": "Río Tormes"
+    },
+    {
+      "name": "Central Hidroeléctrica de Mequinenza",
+      "location": "Mequinenza, Zaragoza",
+      "coordinates": {
+        "lat": 41.3833,
+        "lon": 0.3167
+      },
+      "capacity_MW": 384,
+      "type": "hidroeléctrica",
+      "operator": "Endesa",
+      "start_year": 1966,
+      "supply_regions": [
+        "Aragón",
+        "Cataluña"
+      ],
+      "province": "Zaragoza",
+      "river": "Río Ebro"
+    },
+    {
+      "name": "Central Hidroeléctrica Sallente-Estany Gento",
+      "location": "Sallente de Gállego, Huesca",
+      "coordinates": {
+        "lat": 42.7667,
+        "lon": 0.3333
+      },
+      "capacity_MW": 339,
+      "type": "hidroeléctrica",
+      "operator": "Endesa",
+      "start_year": 1976,
+      "supply_regions": [
+        "Aragón"
+      ],
+      "province": "Huesca",
+      "river": "Río Gállego"
+    },
+    {
+      "name": "Central Hidroeléctrica Moralets-Llauset",
+      "location": "Benasque, Huesca",
+      "coordinates": {
+        "lat": 42.6167,
+        "lon": 0.6167
+      },
+      "capacity_MW": 210,
+      "type": "hidroeléctrica",
+      "operator": "Endesa",
+      "start_year": 1985,
+      "supply_regions": [
+        "Aragón"
+      ],
+      "province": "Huesca",
+      "river": "Río Ésera"
+    },
+    {
+      "name": "Central Hidroeléctrica de Cortes-La Muela",
+      "location": "Cortes de Pallás, Valencia",
+      "coordinates": {
+        "lat": 39.25,
+        "lon": -1.0833
+      },
+      "capacity_MW": 1510,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Iberdrola",
+      "start_year": 1989,
+      "supply_regions": [
+        "Comunidad Valenciana",
+        "Aragón"
+      ],
+      "province": "Valencia",
+      "river": "Río Júcar"
+    },
+    {
+      "name": "Central Hidroeléctrica de Belesar",
+      "location": "Portomarín, Lugo",
+      "coordinates": {
+        "lat": 42.8167,
+        "lon": -7.7
+      },
+      "capacity_MW": 240,
+      "type": "hidroeléctrica",
+      "operator": "Naturgy",
+      "start_year": 1963,
+      "supply_regions": [
+        "Galicia"
+      ],
+      "province": "Lugo",
+      "river": "Río Miño"
+    },
+    {
+      "name": "Central Hidroeléctrica de Talarn",
+      "location": "Talarn, Lleida",
+      "coordinates": {
+        "lat": 42.2167,
+        "lon": 1.0833
+      },
+      "capacity_MW": 30,
+      "type": "hidroeléctrica",
+      "operator": "Endesa",
+      "start_year": 1962,
+      "supply_regions": [
+        "Cataluña"
+      ],
+      "province": "Lleida",
+      "river": "Río Noguera Pallaresa"
+    },
+    {
+      "name": "Central Nuclear de Almaraz I y II",
+      "location": "Almaraz, Cáceres",
+      "coordinates": {
+        "lat": 39.8075,
+        "lon": -5.6986
+      },
+      "capacity_MW": 2093,
+      "type": "nuclear",
+      "operator": "Centrales Nucleares Almaraz-Trillo AIE",
+      "start_year": 1983,
+      "supply_regions": [
+        "Extremadura",
+        "Centro",
+        "Madrid"
+      ],
+      "province": "Cáceres",
+      "reactor_type": "PWR"
+    },
+    {
+      "name": "Central Nuclear de Ascó I",
+      "location": "Ascó, Tarragona",
+      "coordinates": {
+        "lat": 41.1953,
+        "lon": 0.5675
+      },
+      "capacity_MW": 1030,
+      "type": "nuclear",
+      "operator": "Asociación Nuclear Ascó-Vandellós II AIE",
+      "start_year": 1984,
+      "supply_regions": [
+        "Cataluña",
+        "Aragón",
+        "Comunidad Valenciana"
+      ],
+      "province": "Tarragona",
+      "reactor_type": "PWR"
+    },
+    {
+      "name": "Central Nuclear de Ascó II",
+      "location": "Ascó, Tarragona",
+      "coordinates": {
+        "lat": 41.1953,
+        "lon": 0.5675
+      },
+      "capacity_MW": 1030,
+      "type": "nuclear",
+      "operator": "Asociación Nuclear Ascó-Vandellós II AIE",
+      "start_year": 1986,
+      "supply_regions": [
+        "Cataluña",
+        "Aragón",
+        "Comunidad Valenciana"
+      ],
+      "province": "Tarragona",
+      "reactor_type": "PWR"
+    },
+    {
+      "name": "Central Nuclear de Cofrentes",
+      "location": "Cofrentes, Valencia",
+      "coordinates": {
+        "lat": 39.2167,
+        "lon": -1.05
+      },
+      "capacity_MW": 994,
+      "type": "nuclear",
+      "operator": "Iberdrola",
+      "start_year": 1985,
+      "supply_regions": [
+        "Comunidad Valenciana",
+        "Castilla-La Mancha"
+      ],
+      "province": "Valencia",
+      "reactor_type": "BWR"
+    },
+    {
+      "name": "Central Nuclear de Trillo",
+      "location": "Trillo, Guadalajara",
+      "coordinates": {
+        "lat": 40.7167,
+        "lon": -2.6167
+      },
+      "capacity_MW": 1066,
+      "type": "nuclear",
+      "operator": "Centrales Nucleares Almaraz-Trillo AIE",
+      "start_year": 1988,
+      "supply_regions": [
+        "Castilla-La Mancha",
+        "Madrid",
+        "Centro"
+      ],
+      "province": "Guadalajara",
+      "reactor_type": "PWR"
+    },
+    {
+      "name": "Central Nuclear de Vandellós II",
+      "location": "Vandellós, Tarragona",
+      "coordinates": {
+        "lat": 40.95,
+        "lon": 0.8667
+      },
+      "capacity_MW": 992,
+      "type": "nuclear",
+      "operator": "Asociación Nuclear Ascó-Vandellós II AIE",
+      "start_year": 1988,
+      "supply_regions": [
+        "Cataluña",
+        "Comunidad Valenciana"
+      ],
+      "province": "Tarragona",
+      "reactor_type": "PWR"
+    },
+    {
+      "name": "Central Térmica de As Pontes",
+      "location": "As Pontes de García Rodríguez, A Coruña",
+      "coordinates": {
+        "lat": 43.45,
+        "lon": -7.8667
+      },
+      "capacity_MW": 1468,
+      "type": "térmica_carbón",
+      "operator": "Endesa",
+      "start_year": 1974,
+      "supply_regions": [
+        "Galicia",
+        "Asturias"
+      ],
+      "province": "A Coruña",
+      "fuel": "carbón",
+      "status": "cerrada_2020"
+    },
+    {
+      "name": "Central de Ciclo Combinado de Palos de la Frontera",
+      "location": "Palos de la Frontera, Huelva",
+      "coordinates": {
+        "lat": 37.2167,
+        "lon": -6.9
+      },
+      "capacity_MW": 1200,
+      "type": "ciclo_combinado",
+      "operator": "Naturgy",
+      "start_year": 2006,
+      "supply_regions": [
+        "Andalucía",
+        "Extremadura"
+      ],
+      "province": "Huelva",
+      "fuel": "gas_natural"
+    },
+    {
+      "name": "Central de Ciclo Combinado de Aceca",
+      "location": "Villaseca de la Sagra, Toledo",
+      "coordinates": {
+        "lat": 39.8833,
+        "lon": -3.9167
+      },
+      "capacity_MW": 771,
+      "type": "ciclo_combinado",
+      "operator": "Iberdrola/Naturgy",
+      "start_year": 2007,
+      "supply_regions": [
+        "Castilla-La Mancha",
+        "Madrid"
+      ],
+      "province": "Toledo",
+      "fuel": "gas_natural"
+    },
+    {
+      "name": "Central de Ciclo Combinado de Escatrón",
+      "location": "Escatrón, Zaragoza",
+      "coordinates": {
+        "lat": 41.2833,
+        "lon": -0.3167
+      },
+      "capacity_MW": 818,
+      "type": "ciclo_combinado",
+      "operator": "Repsol",
+      "start_year": 2008,
+      "supply_regions": [
+        "Aragón",
+        "Cataluña"
+      ],
+      "province": "Zaragoza",
+      "fuel": "gas_natural"
+    },
+    {
+      "name": "Central de Ciclo Combinado de San Roque",
+      "location": "San Roque, Cádiz",
+      "coordinates": {
+        "lat": 36.2167,
+        "lon": -5.3833
+      },
+      "capacity_MW": 850,
+      "type": "ciclo_combinado",
+      "operator": "Endesa",
+      "start_year": 2002,
+      "supply_regions": [
+        "Andalucía"
+      ],
+      "province": "Cádiz",
+      "fuel": "gas_natural"
+    },
+    {
+      "name": "Central Térmica de Teruel",
+      "location": "Andorra, Teruel",
+      "coordinates": {
+        "lat": 40.9833,
+        "lon": -0.45
+      },
+      "capacity_MW": 1050,
+      "type": "térmica_carbón",
+      "operator": "Endesa",
+      "start_year": 1981,
+      "supply_regions": [
+        "Aragón",
+        "Comunidad Valenciana"
+      ],
+      "province": "Teruel",
+      "fuel": "carbón",
+      "status": "cerrada_2020"
+    },
+    {
+      "name": "Central Térmica Compostilla II",
+      "location": "Cubillos del Sil, León",
+      "coordinates": {
+        "lat": 42.6167,
+        "lon": -6.75
+      },
+      "capacity_MW": 1314,
+      "type": "térmica_carbón",
+      "operator": "Endesa",
+      "start_year": 1961,
+      "supply_regions": [
+        "Castilla y León",
+        "Galicia"
+      ],
+      "province": "León",
+      "fuel": "carbón",
+      "status": "cerrada_2020"
+    },
+    {
+      "name": "Central Térmica Litoral de Almería",
+      "location": "Carboneras, Almería",
+      "coordinates": {
+        "lat": 36.9833,
+        "lon": -1.9
+      },
+      "capacity_MW": 1168,
+      "type": "térmica_carbón",
+      "operator": "Endesa",
+      "start_year": 1985,
+      "supply_regions": [
+        "Andalucía"
+      ],
+      "province": "Almería",
+      "fuel": "carbón_importado",
+      "status": "cerrada_2021"
+    },
+    {
+      "name": "Central Térmica de Meirama",
+      "location": "Cerceda, A Coruña",
+      "coordinates": {
+        "lat": 43.2167,
+        "lon": -8.4167
+      },
+      "capacity_MW": 580,
+      "type": "térmica_carbón",
+      "operator": "Naturgy",
+      "start_year": 1980,
+      "supply_regions": [
+        "Galicia"
+      ],
+      "province": "A Coruña",
+      "fuel": "carbón",
+      "status": "cerrada_2020"
+    },
+    {
+      "name": "Central Térmica Los Barrios",
+      "location": "Los Barrios, Cádiz",
+      "coordinates": {
+        "lat": 36.1833,
+        "lon": -5.4833
+      },
+      "capacity_MW": 567,
+      "type": "térmica_carbón",
+      "operator": "Endesa",
+      "start_year": 1985,
+      "supply_regions": [
+        "Andalucía"
+      ],
+      "province": "Cádiz",
+      "fuel": "carbón",
+      "status": "reserva"
+    },
+    {
+      "name": "Central Térmica de Morvedre",
+      "location": "Sagunto, Valencia",
+      "coordinates": {
+        "lat": 39.6833,
+        "lon": -0.2667
+      },
+      "capacity_MW": 1212,
+      "type": "térmica_gas",
+      "operator": "Iberdrola",
+      "start_year": 2007,
+      "supply_regions": [
+        "Comunidad Valenciana"
+      ],
+      "province": "Valencia",
+      "fuel": "gas_natural"
+    },
+    {
+      "name": "Central Térmica de Barcelona",
+      "location": "Sant Adrià de Besòs, Barcelona",
+      "coordinates": {
+        "lat": 41.4167,
+        "lon": 2.2167
+      },
+      "capacity_MW": 866,
+      "type": "térmica_gas",
+      "operator": "Endesa",
+      "start_year": 2008,
+      "supply_regions": [
+        "Cataluña"
+      ],
+      "province": "Barcelona",
+      "fuel": "gas_natural"
+    },
+    {
+      "name": "Central Térmica Besòs",
+      "location": "Sant Adrià de Besòs, Barcelona",
+      "coordinates": {
+        "lat": 41.4333,
+        "lon": 2.2333
+      },
+      "capacity_MW": 800,
+      "type": "térmica_gas",
+      "operator": "Endesa",
+      "start_year": 2002,
+      "supply_regions": [
+        "Cataluña"
+      ],
+      "province": "Barcelona",
+      "fuel": "gas_natural"
+    },
+    {
+      "name": "Central Térmica Besòs V",
+      "location": "Sant Adrià de Besòs, Barcelona",
+      "coordinates": {
+        "lat": 41.4333,
+        "lon": 2.2333
+      },
+      "capacity_MW": 860,
+      "type": "térmica_gas",
+      "operator": "Endesa",
+      "start_year": 2011,
+      "supply_regions": [
+        "Cataluña"
+      ],
+      "province": "Barcelona",
+      "fuel": "gas_natural"
+    },
+    {
+      "name": "Central Térmica As Pontes (Ciclo Combinado)",
+      "location": "As Pontes de García Rodríguez, A Coruña",
+      "coordinates": {
+        "lat": 43.45,
+        "lon": -7.8667
+      },
+      "capacity_MW": 856,
+      "type": "térmica_gas",
+      "operator": "Endesa",
+      "start_year": 2008,
+      "supply_regions": [
+        "Galicia"
+      ],
+      "province": "A Coruña",
+      "fuel": "gas_natural"
+    },
+    {
+      "name": "Planta Fotovoltaica Francisco Pizarro",
+      "location": "Torrecillas de la Tiesa/Aldeacentenera, Cáceres",
+      "coordinates": {
+        "lat": 39.4833,
+        "lon": -5.75
+      },
+      "capacity_MW": 590,
+      "type": "solar_fotovoltaica",
+      "operator": "Iberdrola",
+      "start_year": 2022,
+      "supply_regions": [
+        "Extremadura",
+        "Centro"
+      ],
+      "province": "Cáceres"
+    },
+    {
+      "name": "Planta Fotovoltaica Núñez de Balboa",
+      "location": "Usagre, Badajoz",
+      "coordinates": {
+        "lat": 38.3167,
+        "lon": -6.0833
+      },
+      "capacity_MW": 500,
+      "type": "solar_fotovoltaica",
+      "operator": "Iberdrola",
+      "start_year": 2020,
+      "supply_regions": [
+        "Extremadura",
+        "Centro"
+      ],
+      "province": "Badajoz"
+    },
+    {
+      "name": "Central Solar Fotovoltaica Mula",
+      "location": "Mula, Murcia",
+      "coordinates": {
+        "lat": 38.05,
+        "lon": -1.4833
+      },
+      "capacity_MW": 494,
+      "type": "solar_fotovoltaica",
+      "operator": "Cobra (Grupo ACS)",
+      "start_year": 2019,
+      "supply_regions": [
+        "Región de Murcia",
+        "Comunidad Valenciana"
+      ],
+      "province": "Murcia"
+    },
+    {
+      "name": "Planta Fotovoltaica Talayuela Solar",
+      "location": "Talayuela, Cáceres",
+      "coordinates": {
+        "lat": 39.9667,
+        "lon": -5.6167
+      },
+      "capacity_MW": 300,
+      "type": "solar_fotovoltaica",
+      "operator": "Iberdrola",
+      "start_year": 2021,
+      "supply_regions": [
+        "Extremadura"
+      ],
+      "province": "Cáceres"
+    },
+    {
+      "name": "Planta Fotovoltaica Cabrera Solar",
+      "location": "Alcalá de Guadaira, Sevilla",
+      "coordinates": {
+        "lat": 37.3333,
+        "lon": -5.8333
+      },
+      "capacity_MW": 200,
+      "type": "solar_fotovoltaica",
+      "operator": "Endesa",
+      "start_year": 2020,
+      "supply_regions": [
+        "Andalucía"
+      ],
+      "province": "Sevilla"
+    },
+    {
+      "name": "Planta Solar Don Rodrigo",
+      "location": "Sevilla",
+      "coordinates": {
+        "lat": 37.3833,
+        "lon": -5.9833
+      },
+      "capacity_MW": 174,
+      "type": "solar_fotovoltaica",
+      "operator": "Endesa",
+      "start_year": 2018,
+      "supply_regions": [
+        "Andalucía"
+      ],
+      "province": "Sevilla"
+    },
+    {
+      "name": "Parque Solar Picón I, II y III",
+      "location": "Ciudad Real",
+      "coordinates": {
+        "lat": 38.9833,
+        "lon": -3.9167
+      },
+      "capacity_MW": 150,
+      "type": "solar_fotovoltaica",
+      "operator": "Naturgy",
+      "start_year": 2019,
+      "supply_regions": [
+        "Castilla-La Mancha"
+      ],
+      "province": "Ciudad Real"
+    },
+    {
+      "name": "Parque Solar El Bonal de Puertollano",
+      "location": "Puertollano, Ciudad Real",
+      "coordinates": {
+        "lat": 38.6833,
+        "lon": -4.1
+      },
+      "capacity_MW": 79.2,
+      "type": "solar_fotovoltaica",
+      "operator": "Iberdrola",
+      "start_year": 2020,
+      "supply_regions": [
+        "Castilla-La Mancha"
+      ],
+      "province": "Ciudad Real"
+    },
+    {
+      "name": "Parque Fotovoltaico Olmedilla",
+      "location": "Olmedilla de Alarcón, Cuenca",
+      "coordinates": {
+        "lat": 39.7167,
+        "lon": -2.4833
+      },
+      "capacity_MW": 60,
+      "type": "solar_fotovoltaica",
+      "operator": "Fotowatio Renewable Ventures",
+      "start_year": 2008,
+      "supply_regions": [
+        "Castilla-La Mancha"
+      ],
+      "province": "Cuenca"
+    },
+    {
+      "name": "Parque Fotovoltaico Puertollano",
+      "location": "Puertollano, Ciudad Real",
+      "coordinates": {
+        "lat": 38.6833,
+        "lon": -4.1
+      },
+      "capacity_MW": 47.6,
+      "type": "solar_fotovoltaica",
+      "operator": "Iberdrola",
+      "start_year": 2008,
+      "supply_regions": [
+        "Castilla-La Mancha"
+      ],
+      "province": "Ciudad Real"
+    },
+    {
+      "name": "Central Solar La Magascona y Magasquila",
+      "location": "Trujillo, Cáceres",
+      "coordinates": {
+        "lat": 39.4667,
+        "lon": -5.8833
+      },
+      "capacity_MW": 34.5,
+      "type": "solar_fotovoltaica",
+      "operator": "Fotowatio Renewable Ventures",
+      "start_year": 2008,
+      "supply_regions": [
+        "Extremadura"
+      ],
+      "province": "Cáceres"
+    },
+    {
+      "name": "Planta Solar Arnedo",
+      "location": "Arnedo, La Rioja",
+      "coordinates": {
+        "lat": 42.2167,
+        "lon": -2.1
+      },
+      "capacity_MW": 34,
+      "type": "solar_fotovoltaica",
+      "operator": "T-Solar",
+      "start_year": 2008,
+      "supply_regions": [
+        "La Rioja"
+      ],
+      "province": "La Rioja"
+    },
+    {
+      "name": "Planta Solar Dulcinea",
+      "location": "Cuenca",
+      "coordinates": {
+        "lat": 40.0667,
+        "lon": -2.1333
+      },
+      "capacity_MW": 31.8,
+      "type": "solar_fotovoltaica",
+      "operator": "Fotowatio Renewable Ventures",
+      "start_year": 2009,
+      "supply_regions": [
+        "Castilla-La Mancha"
+      ],
+      "province": "Cuenca"
+    },
+    {
+      "name": "Planta Solar Spex",
+      "location": "Mérida, Badajoz",
+      "coordinates": {
+        "lat": 38.9167,
+        "lon": -6.3333
+      },
+      "capacity_MW": 30,
+      "type": "solar_fotovoltaica",
+      "operator": "Fotowatio Renewable Ventures",
+      "start_year": 2008,
+      "supply_regions": [
+        "Extremadura"
+      ],
+      "province": "Badajoz"
+    },
+    {
+      "name": "Planta Solar Osa de la Vega",
+      "location": "Osa de la Vega, Cuenca",
+      "coordinates": {
+        "lat": 40.0833,
+        "lon": -2.75
+      },
+      "capacity_MW": 30,
+      "type": "solar_fotovoltaica",
+      "operator": "Fotowatio Renewable Ventures",
+      "start_year": 2008,
+      "supply_regions": [
+        "Castilla-La Mancha"
+      ],
+      "province": "Cuenca"
+    },
+    {
+      "name": "Planta Solar Fuente Álamo",
+      "location": "Fuente-Álamo, Murcia",
+      "coordinates": {
+        "lat": 37.7167,
+        "lon": -1.1667
+      },
+      "capacity_MW": 26,
+      "type": "solar_fotovoltaica",
+      "operator": "Fotowatio Renewable Ventures",
+      "start_year": 2008,
+      "supply_regions": [
+        "Región de Murcia"
+      ],
+      "province": "Murcia"
+    },
+    {
+      "name": "Planta Solar Guadarranque",
+      "location": "San Roque, Cádiz",
+      "coordinates": {
+        "lat": 36.2667,
+        "lon": -5.3833
+      },
+      "capacity_MW": 20,
+      "type": "solar_fotovoltaica",
+      "operator": "Fotowatio Renewable Ventures",
+      "start_year": 2008,
+      "supply_regions": [
+        "Andalucía"
+      ],
+      "province": "Cádiz"
+    },
+    {
+      "name": "Central Solar Térmica Alvarado I",
+      "location": "Badajoz",
+      "coordinates": {
+        "lat": 38.8833,
+        "lon": -6.9667
+      },
+      "capacity_MW": 50,
+      "type": "solar_térmica",
+      "operator": "Acciona Energía",
+      "start_year": 2009,
+      "supply_regions": [
+        "Extremadura"
+      ],
+      "province": "Badajoz"
+    },
+    {
+      "name": "Planta Solar Núñez de Balboa",
+      "location": "Usagre, Badajoz",
+      "coordinates": {
+        "lat": 38.3167,
+        "lon": -6.0833
+      },
+      "capacity_MW": 500,
+      "type": "solar_fotovoltaica",
+      "operator": "Iberdrola",
+      "start_year": 2020,
+      "supply_regions": [
+        "Extremadura",
+        "Centro"
+      ],
+      "province": "Badajoz"
+    },
+    {
+      "name": "Parque Eólico Villanueva",
+      "location": "Villanueva de los Castillejos, Huelva",
+      "coordinates": {
+        "lat": 37.4667,
+        "lon": -7.2167
+      },
+      "capacity_MW": 372,
+      "type": "eólica",
+      "operator": "Iberdrola",
+      "start_year": 2021,
+      "supply_regions": [
+        "Andalucía"
+      ],
+      "province": "Huelva"
+    },
+    {
+      "name": "Parque Eólico El Andévalo",
+      "location": "Puebla de Guzmán, Huelva",
+      "coordinates": {
+        "lat": 37.6167,
+        "lon": -7.25
+      },
+      "capacity_MW": 292,
+      "type": "eólica",
+      "operator": "Iberdrola",
+      "start_year": 2007,
+      "supply_regions": [
+        "Andalucía"
+      ],
+      "province": "Huelva"
+    },
+    {
+      "name": "Parque Eólico Sierra de Meira",
+      "location": "Meira, Lugo",
+      "coordinates": {
+        "lat": 43.1833,
+        "lon": -7.0833
+      },
+      "capacity_MW": 208,
+      "type": "eólica",
+      "operator": "Naturgy",
+      "start_year": 2009,
+      "supply_regions": [
+        "Galicia"
+      ],
+      "province": "Lugo"
+    },
+    {
+      "name": "Parque Eólico La Muela",
+      "location": "La Muela, Zaragoza",
+      "coordinates": {
+        "lat": 41.5833,
+        "lon": -1.0833
+      },
+      "capacity_MW": 160,
+      "type": "eólica",
+      "operator": "Acciona Energía",
+      "start_year": 2002,
+      "supply_regions": [
+        "Aragón"
+      ],
+      "province": "Zaragoza"
+    },
+    {
+      "name": "Parque Eólico Cabo de Trafalgar",
+      "location": "Barbate, Cádiz",
+      "coordinates": {
+        "lat": 36.1833,
+        "lon": -6.0333
+      },
+      "capacity_MW": 30,
+      "type": "eólica",
+      "operator": "Endesa",
+      "start_year": 2001,
+      "supply_regions": [
+        "Andalucía"
+      ],
+      "province": "Cádiz"
+    },
+    {
+      "name": "Parque Eólico Moncayuelo",
+      "location": "Ágreda, Soria",
+      "coordinates": {
+        "lat": 41.85,
+        "lon": -1.9167
+      },
+      "capacity_MW": 49.5,
+      "type": "eólica",
+      "operator": "Iberdrola",
+      "start_year": 2004,
+      "supply_regions": [
+        "Castilla y León"
+      ],
+      "province": "Soria"
+    },
+    {
+      "name": "Parque Eólico Cavar",
+      "location": "Cádiz",
+      "coordinates": {
+        "lat": 36.4167,
+        "lon": -5.8333
+      },
+      "capacity_MW": 111,
+      "type": "eólica",
+      "operator": "Acciona Energía",
+      "start_year": 2020,
+      "supply_regions": [
+        "Andalucía"
+      ],
+      "province": "Cádiz"
+    },
+    {
+      "name": "Parque Eólico Corme",
+      "location": "Ponteceso, A Coruña",
+      "coordinates": {
+        "lat": 43.25,
+        "lon": -8.9167
+      },
+      "capacity_MW": 84,
+      "type": "eólica",
+      "operator": "Naturgy",
+      "start_year": 2019,
+      "supply_regions": [
+        "Galicia"
+      ],
+      "province": "A Coruña"
+    },
+    {
+      "name": "Parque Eólico Montes de Cierzo",
+      "location": "Zaragoza",
+      "coordinates": {
+        "lat": 41.75,
+        "lon": -1.25
+      },
+      "capacity_MW": 180,
+      "type": "eólica",
+      "operator": "Iberdrola",
+      "start_year": 2021,
+      "supply_regions": [
+        "Aragón"
+      ],
+      "province": "Zaragoza"
+    }
+  ]
+}

@@ -18,10 +18,7 @@ export default defineConfig({
 			output: {
 				entryFileNames: `dist/index.js`,     // sin hash
 				chunkFileNames: `dist/index.[name].js`, // opcional si usas code splitting
-				assetFileNames: (chunkInfo) => {
-					if (chunkInfo.name === 'style.css') return 'dist/index.css';
-					return chunkInfo.name;
-				},
+				assetFileNames: `dist/[name].[ext]`,
 			},
 		},
 

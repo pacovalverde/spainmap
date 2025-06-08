@@ -1,0 +1,1638 @@
+{
+  "metadata": {
+    "title": "Generadores Eléctricos de Portugal >10 MW",
+    "description": "Base de datos completa de instalaciones de generación eléctrica en Portugal con capacidad superior a 10 MW",
+    "created_date": "2025-06-06T23:07:56.784487",
+    "sources": [
+      "Wikipedia - List of power stations in Portugal",
+      "Wikipedia - List of hydroelectric power stations in Portugal",
+      "OpenInfraMap - Portugal Power Plants",
+      "PowerPlantMaps - Portugal Overview",
+      "DGEG - Direção-Geral de Energia e Geologia"
+    ],
+    "total_generators": 98,
+    "total_capacity_MW": 18777.4,
+    "types_included": [
+      "biomasa",
+      "ciclo_combinado",
+      "eólica",
+      "geotérmica",
+      "hidroeléctrica",
+      "hidroeléctrica_bombeo",
+      "solar_fotovoltaica"
+    ],
+    "coverage": "Portugal Continental, Região Autónoma dos Açores, Região Autónoma da Madeira"
+  },
+  "generators": [
+    {
+      "name": "Central Hidroeléctrica de Aguieira",
+      "location": "Coimbra",
+      "coordinates": {
+        "lat": 40.34,
+        "lon": -8.1969
+      },
+      "capacity_MW": 336,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1981,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Coimbra",
+      "river": "Río Mondego"
+    },
+    {
+      "name": "Central Hidroeléctrica do Alto Lindoso",
+      "location": "Viana do Castelo",
+      "coordinates": {
+        "lat": 41.8719,
+        "lon": -8.2039
+      },
+      "capacity_MW": 630,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1992,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Viana do Castelo",
+      "river": "Río Limia"
+    },
+    {
+      "name": "Central Hidroeléctrica do Alto Rabagão",
+      "location": "Vila Real",
+      "coordinates": {
+        "lat": 41.7389,
+        "lon": -7.8569
+      },
+      "capacity_MW": 68,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1964,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Vila Real",
+      "river": "Río Rabagão"
+    },
+    {
+      "name": "Central Hidroeléctrica do Alto Tâmega",
+      "location": "Vila Real",
+      "coordinates": {
+        "lat": 41.5747,
+        "lon": -7.7306
+      },
+      "capacity_MW": 160,
+      "type": "hidroeléctrica",
+      "operator": "Iberdrola",
+      "start_year": 2022,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Vila Real",
+      "river": "Río Tâmega"
+    },
+    {
+      "name": "Central Hidroeléctrica do Alqueva I",
+      "location": "Évora/Beja",
+      "coordinates": {
+        "lat": 38.195,
+        "lon": -7.4969
+      },
+      "capacity_MW": 259.2,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 2004,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Évora",
+      "river": "Río Guadiana"
+    },
+    {
+      "name": "Central Hidroeléctrica do Alqueva II",
+      "location": "Évora/Beja",
+      "coordinates": {
+        "lat": 38.195,
+        "lon": -7.4969
+      },
+      "capacity_MW": 259.2,
+      "type": "hidroeléctrica",
+      "operator": "EDIA/EDP GPE",
+      "start_year": 2013,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Beja",
+      "river": "Río Guadiana"
+    },
+    {
+      "name": "Central Hidroeléctrica da Bemposta I",
+      "location": "Bragança",
+      "coordinates": {
+        "lat": 41.3,
+        "lon": -6.47
+      },
+      "capacity_MW": 240,
+      "type": "hidroeléctrica",
+      "operator": "Movhera",
+      "start_year": 1964,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Bragança",
+      "river": "Río Douro"
+    },
+    {
+      "name": "Central Hidroeléctrica da Bemposta II",
+      "location": "Bragança",
+      "coordinates": {
+        "lat": 41.3,
+        "lon": -6.47
+      },
+      "capacity_MW": 191,
+      "type": "hidroeléctrica",
+      "operator": "Movhera",
+      "start_year": 2011,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Bragança",
+      "river": "Río Douro"
+    },
+    {
+      "name": "Central Hidroeléctrica do Cabril",
+      "location": "Castelo Branco/Leiria",
+      "coordinates": {
+        "lat": 39.9169,
+        "lon": -8.1319
+      },
+      "capacity_MW": 108,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1954,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Castelo Branco",
+      "river": "Río Zêzere"
+    },
+    {
+      "name": "Central Hidroeléctrica do Carrapatelo",
+      "location": "Porto/Viseu",
+      "coordinates": {
+        "lat": 41.0839,
+        "lon": -8.13
+      },
+      "capacity_MW": 201,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1971,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Porto",
+      "river": "Río Douro"
+    },
+    {
+      "name": "Central Hidroeléctrica de Castelo do Bode",
+      "location": "Santarém",
+      "coordinates": {
+        "lat": 39.5431,
+        "lon": -8.3189
+      },
+      "capacity_MW": 159,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1951,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Santarém",
+      "river": "Río Zêzere"
+    },
+    {
+      "name": "Central Hidroeléctrica de Crestuma-Lever",
+      "location": "Porto",
+      "coordinates": {
+        "lat": 41.07,
+        "lon": -8.485
+      },
+      "capacity_MW": 117,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1985,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Porto",
+      "river": "Río Douro"
+    },
+    {
+      "name": "Central Hidroeléctrica de Daivões",
+      "location": "Vila Real",
+      "coordinates": {
+        "lat": 41.5244,
+        "lon": -7.865
+      },
+      "capacity_MW": 118,
+      "type": "hidroeléctrica",
+      "operator": "Iberdrola",
+      "start_year": 2022,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Vila Real",
+      "river": "Río Tâmega"
+    },
+    {
+      "name": "Central Hidroeléctrica de Gouvães",
+      "location": "Vila Real",
+      "coordinates": {
+        "lat": 41.4942,
+        "lon": -7.7272
+      },
+      "capacity_MW": 880,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Iberdrola",
+      "start_year": 2023,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Vila Real",
+      "river": "Río Torno"
+    },
+    {
+      "name": "Central Hidroeléctrica de Miranda I",
+      "location": "Bragança",
+      "coordinates": {
+        "lat": 41.4881,
+        "lon": -6.265
+      },
+      "capacity_MW": 180,
+      "type": "hidroeléctrica",
+      "operator": "Movhera",
+      "start_year": 1960,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Bragança",
+      "river": "Río Douro"
+    },
+    {
+      "name": "Central Hidroeléctrica de Miranda II",
+      "location": "Bragança",
+      "coordinates": {
+        "lat": 41.4881,
+        "lon": -6.265
+      },
+      "capacity_MW": 189,
+      "type": "hidroeléctrica",
+      "operator": "Movhera",
+      "start_year": 1995,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Bragança",
+      "river": "Río Douro"
+    },
+    {
+      "name": "Central Hidroeléctrica de Picote I",
+      "location": "Bragança",
+      "coordinates": {
+        "lat": 41.3781,
+        "lon": -6.3511
+      },
+      "capacity_MW": 195,
+      "type": "hidroeléctrica",
+      "operator": "Movhera",
+      "start_year": 1958,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Bragança",
+      "river": "Río Douro"
+    },
+    {
+      "name": "Central Hidroeléctrica de Picote II",
+      "location": "Bragança",
+      "coordinates": {
+        "lat": 41.3781,
+        "lon": -6.3511
+      },
+      "capacity_MW": 246,
+      "type": "hidroeléctrica",
+      "operator": "Movhera",
+      "start_year": 2011,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Bragança",
+      "river": "Río Douro"
+    },
+    {
+      "name": "Central Hidroeléctrica do Pocinho",
+      "location": "Guarda",
+      "coordinates": {
+        "lat": 41.1339,
+        "lon": -7.1139
+      },
+      "capacity_MW": 186,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1982,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Guarda",
+      "river": "Río Douro"
+    },
+    {
+      "name": "Central Hidroeléctrica da Régua",
+      "location": "Vila Real",
+      "coordinates": {
+        "lat": 41.1469,
+        "lon": -7.7389
+      },
+      "capacity_MW": 180,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1973,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Vila Real",
+      "river": "Río Douro"
+    },
+    {
+      "name": "Central Hidroeléctrica de Salamonde II",
+      "location": "Braga",
+      "coordinates": {
+        "lat": 41.69,
+        "lon": -8.0911
+      },
+      "capacity_MW": 207,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 2015,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Braga",
+      "river": "Río Cávado"
+    },
+    {
+      "name": "Central Hidroeléctrica da Valeira",
+      "location": "Viseu",
+      "coordinates": {
+        "lat": 41.16,
+        "lon": -7.3769
+      },
+      "capacity_MW": 240,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1976,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Viseu",
+      "river": "Río Douro"
+    },
+    {
+      "name": "Central Hidroeléctrica de Vilarinho das Furnas",
+      "location": "Braga",
+      "coordinates": {
+        "lat": 41.7619,
+        "lon": -8.2081
+      },
+      "capacity_MW": 125,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1972,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Braga",
+      "river": "Río Homem"
+    },
+    {
+      "name": "Central Hidroeléctrica do Torrão",
+      "location": "Porto",
+      "coordinates": {
+        "lat": 41.07,
+        "lon": -8.45
+      },
+      "capacity_MW": 140,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1988,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Porto",
+      "river": "Río Tâmega"
+    },
+    {
+      "name": "Central Hidroeléctrica de Fratel",
+      "location": "Portalegre",
+      "coordinates": {
+        "lat": 39.6,
+        "lon": -7.9
+      },
+      "capacity_MW": 132,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1973,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Portalegre",
+      "river": "Río Tejo"
+    },
+    {
+      "name": "Central Hidroeléctrica de Belver",
+      "location": "Portalegre",
+      "coordinates": {
+        "lat": 39.45,
+        "lon": -7.95
+      },
+      "capacity_MW": 80.7,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1952,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Portalegre",
+      "river": "Río Tejo"
+    },
+    {
+      "name": "Central Hidroeléctrica de Foz Tua",
+      "location": "Vila Real",
+      "coordinates": {
+        "lat": 41.2,
+        "lon": -7.45
+      },
+      "capacity_MW": 274,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Movhera",
+      "start_year": 2017,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Vila Real",
+      "river": "Río Tua"
+    },
+    {
+      "name": "Central Hidroeléctrica de Frades I",
+      "location": "Viseu",
+      "coordinates": {
+        "lat": 40.55,
+        "lon": -7.8
+      },
+      "capacity_MW": 191,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 2017,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Viseu",
+      "river": "Río Mondego"
+    },
+    {
+      "name": "Central Hidroeléctrica de Frades II",
+      "location": "Viseu",
+      "coordinates": {
+        "lat": 40.55,
+        "lon": -7.8
+      },
+      "capacity_MW": 780,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 2017,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Viseu",
+      "river": "Río Mondego"
+    },
+    {
+      "name": "Central Hidroeléctrica do Baixo Sabor",
+      "location": "Bragança",
+      "coordinates": {
+        "lat": 41.35,
+        "lon": -6.8
+      },
+      "capacity_MW": 144,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Movhera",
+      "start_year": 2015,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Bragança",
+      "river": "Río Sabor"
+    },
+    {
+      "name": "Central Hidroeléctrica do Ribeiradio",
+      "location": "Viseu",
+      "coordinates": {
+        "lat": 40.6,
+        "lon": -7.75
+      },
+      "capacity_MW": 147,
+      "type": "hidroeléctrica_bombeo",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 2016,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Viseu",
+      "river": "Río Mondego"
+    },
+    {
+      "name": "Central Hidroeléctrica de Vilar-Tabuaço",
+      "location": "Viseu",
+      "coordinates": {
+        "lat": 41.1,
+        "lon": -7.6
+      },
+      "capacity_MW": 58,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1993,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Viseu",
+      "river": "Río Douro"
+    },
+    {
+      "name": "Central Hidroeléctrica da Paradela",
+      "location": "Vila Real",
+      "coordinates": {
+        "lat": 41.6,
+        "lon": -8.1
+      },
+      "capacity_MW": 54,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1956,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Vila Real",
+      "river": "Río Cávado"
+    },
+    {
+      "name": "Central Hidroeléctrica da Caniçada",
+      "location": "Braga",
+      "coordinates": {
+        "lat": 41.65,
+        "lon": -8.15
+      },
+      "capacity_MW": 62,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1955,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Braga",
+      "river": "Río Cávado"
+    },
+    {
+      "name": "Central Hidroeléctrica de Bouçã",
+      "location": "Leiria",
+      "coordinates": {
+        "lat": 39.8,
+        "lon": -8.2
+      },
+      "capacity_MW": 50,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1955,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Leiria",
+      "river": "Río Zêzere"
+    },
+    {
+      "name": "Central Hidroeléctrica de Pracana",
+      "location": "Santarém",
+      "coordinates": {
+        "lat": 39.7,
+        "lon": -7.9
+      },
+      "capacity_MW": 41,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1950,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Santarém",
+      "river": "Río Ocreza"
+    },
+    {
+      "name": "Central Hidroeléctrica de Caldeirão",
+      "location": "Guarda",
+      "coordinates": {
+        "lat": 40.5,
+        "lon": -7.3
+      },
+      "capacity_MW": 40,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1993,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Guarda",
+      "river": "Río Caldeirão"
+    },
+    {
+      "name": "Central Hidroeléctrica de Santa Luzia",
+      "location": "Coimbra",
+      "coordinates": {
+        "lat": 40.0889,
+        "lon": -7.8569
+      },
+      "capacity_MW": 32,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1942,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Coimbra",
+      "river": "Río Unhais"
+    },
+    {
+      "name": "Central Hidroeléctrica de Varosa",
+      "location": "Viseu",
+      "coordinates": {
+        "lat": 41.0,
+        "lon": -7.8
+      },
+      "capacity_MW": 25,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1934,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Viseu",
+      "river": "Río Varosa"
+    },
+    {
+      "name": "Central Hidroeléctrica de Raiva",
+      "location": "Coimbra",
+      "coordinates": {
+        "lat": 40.35,
+        "lon": -8.2
+      },
+      "capacity_MW": 24,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1981,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Coimbra",
+      "river": "Río Mondego"
+    },
+    {
+      "name": "Central Hidroeléctrica de Touvedo",
+      "location": "Viana do Castelo",
+      "coordinates": {
+        "lat": 42.0,
+        "lon": -8.2
+      },
+      "capacity_MW": 22,
+      "type": "hidroeléctrica",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 1993,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Viana do Castelo",
+      "river": "Río Limia"
+    },
+    {
+      "name": "Central Hidroeléctrica de Pedrógão",
+      "location": "Beja",
+      "coordinates": {
+        "lat": 37.8,
+        "lon": -7.5
+      },
+      "capacity_MW": 10,
+      "type": "hidroeléctrica",
+      "operator": "EDIA",
+      "start_year": 2005,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Beja",
+      "river": "Río Guadiana"
+    },
+    {
+      "name": "Central Termoeléctrica do Ribatejo",
+      "location": "Lisboa",
+      "coordinates": {
+        "lat": 39.0111,
+        "lon": -8.9511
+      },
+      "capacity_MW": 1176,
+      "type": "ciclo_combinado",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 2005,
+      "supply_regions": [
+        "Lisboa e Vale do Tejo"
+      ],
+      "province": "Lisboa"
+    },
+    {
+      "name": "Central de Ciclo Combinado da Tapada do Outeiro",
+      "location": "Porto",
+      "coordinates": {
+        "lat": 41.0689,
+        "lon": -8.4589
+      },
+      "capacity_MW": 990,
+      "type": "ciclo_combinado",
+      "operator": "Turbogás",
+      "start_year": 1999,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Porto"
+    },
+    {
+      "name": "Central de Ciclo Combinado de Lares",
+      "location": "Coimbra",
+      "coordinates": {
+        "lat": 40.1239,
+        "lon": -8.775
+      },
+      "capacity_MW": 826,
+      "type": "ciclo_combinado",
+      "operator": "Energias de Portugal (EDP)",
+      "start_year": 2009,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Coimbra"
+    },
+    {
+      "name": "Central Termoelétrica do Pego II",
+      "location": "Santarém",
+      "coordinates": {
+        "lat": 39.4681,
+        "lon": -8.1089
+      },
+      "capacity_MW": 837,
+      "type": "ciclo_combinado",
+      "operator": "ElecGas",
+      "start_year": 2010,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Santarém"
+    },
+    {
+      "name": "Parque Eólico do Alto Minho I",
+      "location": "Viana do Castelo",
+      "coordinates": {
+        "lat": 41.8,
+        "lon": -8.5
+      },
+      "capacity_MW": 264,
+      "type": "eólica",
+      "operator": "FINERGE",
+      "start_year": 2008,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Viana do Castelo"
+    },
+    {
+      "name": "Parque Eólico do Alto Douro",
+      "location": "Vila Real",
+      "coordinates": {
+        "lat": 41.2,
+        "lon": -7.7
+      },
+      "capacity_MW": 253,
+      "type": "eólica",
+      "operator": "FINERGE",
+      "start_year": 2009,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Vila Real"
+    },
+    {
+      "name": "Parque Eólico do Alto da Coutada",
+      "location": "Viseu",
+      "coordinates": {
+        "lat": 40.5,
+        "lon": -7.5
+      },
+      "capacity_MW": 166,
+      "type": "eólica",
+      "operator": "EDP Renewables",
+      "start_year": 2010,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Viseu"
+    },
+    {
+      "name": "Parque Eólico do Pinhal Interior",
+      "location": "Castelo Branco",
+      "coordinates": {
+        "lat": 40.0,
+        "lon": -7.5
+      },
+      "capacity_MW": 157,
+      "type": "eólica",
+      "operator": "Generg",
+      "start_year": 2009,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Castelo Branco"
+    },
+    {
+      "name": "Parque Eólico de Penamacor",
+      "location": "Castelo Branco",
+      "coordinates": {
+        "lat": 40.17,
+        "lon": -7.17
+      },
+      "capacity_MW": 153,
+      "type": "eólica",
+      "operator": "LESTENERGIA",
+      "start_year": 2008,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Castelo Branco"
+    },
+    {
+      "name": "Parque Eólico do Douro Sul",
+      "location": "Viseu",
+      "coordinates": {
+        "lat": 41.0,
+        "lon": -7.8
+      },
+      "capacity_MW": 149,
+      "type": "eólica",
+      "operator": "FINERGE",
+      "start_year": 2007,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Viseu"
+    },
+    {
+      "name": "Parque Eólico da Gardunha",
+      "location": "Castelo Branco",
+      "coordinates": {
+        "lat": 40.1,
+        "lon": -7.4
+      },
+      "capacity_MW": 135,
+      "type": "eólica",
+      "operator": "Generg",
+      "start_year": 2008,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Castelo Branco"
+    },
+    {
+      "name": "Parque Eólico de Arada/Montemuro",
+      "location": "Viseu",
+      "coordinates": {
+        "lat": 40.8,
+        "lon": -8.1
+      },
+      "capacity_MW": 133,
+      "type": "eólica",
+      "operator": "FINERGE",
+      "start_year": 2006,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Viseu"
+    },
+    {
+      "name": "Parque Eólico da Raia",
+      "location": "Guarda",
+      "coordinates": {
+        "lat": 40.5,
+        "lon": -6.8
+      },
+      "capacity_MW": 129,
+      "type": "eólica",
+      "operator": "FINERGE",
+      "start_year": 2007,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Guarda"
+    },
+    {
+      "name": "Parque Eólico da Serra dos Candeeiros",
+      "location": "Leiria",
+      "coordinates": {
+        "lat": 39.5,
+        "lon": -8.8
+      },
+      "capacity_MW": 121,
+      "type": "eólica",
+      "operator": "Ventient Energy",
+      "start_year": 2009,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Leiria"
+    },
+    {
+      "name": "Parque Eólico de Pampilhosa da Serra",
+      "location": "Coimbra",
+      "coordinates": {
+        "lat": 40.0,
+        "lon": -7.9
+      },
+      "capacity_MW": 114,
+      "type": "eólica",
+      "operator": "Ventient Energy",
+      "start_year": 2008,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Coimbra"
+    },
+    {
+      "name": "Parque Eólico do Caramulo",
+      "location": "Viseu",
+      "coordinates": {
+        "lat": 40.55,
+        "lon": -8.1
+      },
+      "capacity_MW": 109,
+      "type": "eólica",
+      "operator": "Generg",
+      "start_year": 2007,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Viseu"
+    },
+    {
+      "name": "Parque Eólico das Terras Altas de Fafe",
+      "location": "Braga",
+      "coordinates": {
+        "lat": 41.5,
+        "lon": -8.2
+      },
+      "capacity_MW": 106,
+      "type": "eólica",
+      "operator": "Trustenergy",
+      "start_year": 2009,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Braga"
+    },
+    {
+      "name": "Parque Eólico da Terra Fria",
+      "location": "Bragança",
+      "coordinates": {
+        "lat": 41.8,
+        "lon": -6.8
+      },
+      "capacity_MW": 104,
+      "type": "eólica",
+      "operator": "Trustenergy",
+      "start_year": 2008,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Bragança"
+    },
+    {
+      "name": "Parque Eólico das Beiras",
+      "location": "Guarda",
+      "coordinates": {
+        "lat": 40.3,
+        "lon": -7.2
+      },
+      "capacity_MW": 101,
+      "type": "eólica",
+      "operator": "EDP Renováveis",
+      "start_year": 2007,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Guarda"
+    },
+    {
+      "name": "Parque Eólico do Sincelo",
+      "location": "Guarda",
+      "coordinates": {
+        "lat": 40.4,
+        "lon": -7.1
+      },
+      "capacity_MW": 92,
+      "type": "eólica",
+      "operator": "EDP Renováveis",
+      "start_year": 2008,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Guarda"
+    },
+    {
+      "name": "Parque Eólico de Chão Falcão",
+      "location": "Bragança",
+      "coordinates": {
+        "lat": 41.7,
+        "lon": -6.9
+      },
+      "capacity_MW": 90,
+      "type": "eólica",
+      "operator": "Ventient Energy",
+      "start_year": 2007,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Bragança"
+    },
+    {
+      "name": "Parque Eólico de Bornes",
+      "location": "Bragança",
+      "coordinates": {
+        "lat": 41.6,
+        "lon": -6.7
+      },
+      "capacity_MW": 70,
+      "type": "eólica",
+      "operator": "Ventient Energy",
+      "start_year": 2006,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Bragança"
+    },
+    {
+      "name": "Parque Eólico de Malhanito",
+      "location": "Bragança",
+      "coordinates": {
+        "lat": 41.5,
+        "lon": -6.8
+      },
+      "capacity_MW": 67,
+      "type": "eólica",
+      "operator": "Ventient Energy",
+      "start_year": 2007,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Bragança"
+    },
+    {
+      "name": "Parque Eólico de Barão de São João",
+      "location": "Faro",
+      "coordinates": {
+        "lat": 37.2,
+        "lon": -8.6
+      },
+      "capacity_MW": 62,
+      "type": "eólica",
+      "operator": "EDP Renováveis",
+      "start_year": 2008,
+      "supply_regions": [
+        "Algarve"
+      ],
+      "province": "Faro"
+    },
+    {
+      "name": "Parque Eólico do Alto Minho II",
+      "location": "Viana do Castelo",
+      "coordinates": {
+        "lat": 41.75,
+        "lon": -8.45
+      },
+      "capacity_MW": 61,
+      "type": "eólica",
+      "operator": "FINERGE",
+      "start_year": 2009,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Viana do Castelo"
+    },
+    {
+      "name": "Parque Eólico da Lousã II",
+      "location": "Coimbra",
+      "coordinates": {
+        "lat": 40.1,
+        "lon": -8.2
+      },
+      "capacity_MW": 60,
+      "type": "eólica",
+      "operator": "Ventient Energy",
+      "start_year": 2008,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Coimbra"
+    },
+    {
+      "name": "Parque Eólico da Beira Interior",
+      "location": "Castelo Branco",
+      "coordinates": {
+        "lat": 40.2,
+        "lon": -7.3
+      },
+      "capacity_MW": 58,
+      "type": "eólica",
+      "operator": "Ventient Energy",
+      "start_year": 2007,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Castelo Branco"
+    },
+    {
+      "name": "Parque Eólico do Pisco",
+      "location": "Santarém",
+      "coordinates": {
+        "lat": 39.2,
+        "lon": -8.8
+      },
+      "capacity_MW": 50,
+      "type": "eólica",
+      "operator": "IKEA Portugal",
+      "start_year": 2020,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Santarém"
+    },
+    {
+      "name": "Parque Eólico de Penacova",
+      "location": "Coimbra",
+      "coordinates": {
+        "lat": 40.27,
+        "lon": -8.28
+      },
+      "capacity_MW": 46.8,
+      "type": "eólica",
+      "operator": "EDP Renováveis",
+      "start_year": 2007,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Coimbra"
+    },
+    {
+      "name": "Central Solar Fotovoltaica Fernando Pessoa",
+      "location": "Beja",
+      "coordinates": {
+        "lat": 38.0,
+        "lon": -7.8
+      },
+      "capacity_MW": 1200,
+      "type": "solar_fotovoltaica",
+      "operator": "Iberdrola",
+      "start_year": 2023,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Beja"
+    },
+    {
+      "name": "Parque Fotovoltáico de Nisa",
+      "location": "Portalegre",
+      "coordinates": {
+        "lat": 39.5,
+        "lon": -7.65
+      },
+      "capacity_MW": 705,
+      "type": "solar_fotovoltaica",
+      "operator": "Greenvolt/Alpac Capital",
+      "start_year": 2023,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Portalegre"
+    },
+    {
+      "name": "Central Fotovoltaica Riccardo Totta",
+      "location": "Évora",
+      "coordinates": {
+        "lat": 38.5,
+        "lon": -7.9
+      },
+      "capacity_MW": 220,
+      "type": "solar_fotovoltaica",
+      "operator": "WElink Energy/Solara4",
+      "start_year": 2022,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Évora"
+    },
+    {
+      "name": "Central Fotovoltaica de Rio Maior",
+      "location": "Santarém",
+      "coordinates": {
+        "lat": 39.34,
+        "lon": -8.935
+      },
+      "capacity_MW": 204,
+      "type": "solar_fotovoltaica",
+      "operator": "Aura Power",
+      "start_year": 2022,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Santarém"
+    },
+    {
+      "name": "Central Fotovoltaica da Cerca",
+      "location": "Évora",
+      "coordinates": {
+        "lat": 38.4,
+        "lon": -7.7
+      },
+      "capacity_MW": 202,
+      "type": "solar_fotovoltaica",
+      "operator": "EDP Renewables",
+      "start_year": 2021,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Évora"
+    },
+    {
+      "name": "Parque Solar Escalabis",
+      "location": "Santarém",
+      "coordinates": {
+        "lat": 39.2,
+        "lon": -8.7
+      },
+      "capacity_MW": 189,
+      "type": "solar_fotovoltaica",
+      "operator": "Escalabis Solar",
+      "start_year": 2021,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Santarém"
+    },
+    {
+      "name": "Central Solar Fotovoltaica de Santas",
+      "location": "Beja",
+      "coordinates": {
+        "lat": 37.9,
+        "lon": -7.6
+      },
+      "capacity_MW": 180,
+      "type": "solar_fotovoltaica",
+      "operator": "Akuo Renováveis Portugal",
+      "start_year": 2021,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Beja"
+    },
+    {
+      "name": "Central Solar Fotovoltaica da Margalha",
+      "location": "Beja",
+      "coordinates": {
+        "lat": 37.85,
+        "lon": -7.55
+      },
+      "capacity_MW": 144,
+      "type": "solar_fotovoltaica",
+      "operator": "Akuo Renováveis Portugal",
+      "start_year": 2020,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Beja"
+    },
+    {
+      "name": "Parque Solar de Alcoutim",
+      "location": "Faro",
+      "coordinates": {
+        "lat": 37.47,
+        "lon": -7.47
+      },
+      "capacity_MW": 144,
+      "type": "solar_fotovoltaica",
+      "operator": "Galp",
+      "start_year": 2021,
+      "supply_regions": [
+        "Algarve"
+      ],
+      "province": "Faro"
+    },
+    {
+      "name": "Central Solar Fotovoltaica do Fundão",
+      "location": "Castelo Branco",
+      "coordinates": {
+        "lat": 40.14,
+        "lon": -7.5
+      },
+      "capacity_MW": 126,
+      "type": "solar_fotovoltaica",
+      "operator": "Days of Luck",
+      "start_year": 2021,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Castelo Branco"
+    },
+    {
+      "name": "Central Solar Fotovoltaica do Cabeço Vermelho",
+      "location": "Beja",
+      "coordinates": {
+        "lat": 37.95,
+        "lon": -7.45
+      },
+      "capacity_MW": 96,
+      "type": "solar_fotovoltaica",
+      "operator": "Pentagab/P2K Renováveis",
+      "start_year": 2020,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Beja"
+    },
+    {
+      "name": "Central Fotovoltaica de Torre Bela",
+      "location": "Santarém",
+      "coordinates": {
+        "lat": 39.1,
+        "lon": -8.6
+      },
+      "capacity_MW": 68,
+      "type": "solar_fotovoltaica",
+      "operator": "Neoen",
+      "start_year": 2019,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Santarém"
+    },
+    {
+      "name": "Central Fotovoltaica do Pinhal Novo",
+      "location": "Setúbal",
+      "coordinates": {
+        "lat": 38.63,
+        "lon": -8.91
+      },
+      "capacity_MW": 64,
+      "type": "solar_fotovoltaica",
+      "operator": "EKZ Renewables AG",
+      "start_year": 2019,
+      "supply_regions": [
+        "Lisboa e Vale do Tejo"
+      ],
+      "province": "Setúbal"
+    },
+    {
+      "name": "Central Solar Fotovoltaica de Amareleja",
+      "location": "Beja",
+      "coordinates": {
+        "lat": 38.17,
+        "lon": -7.2
+      },
+      "capacity_MW": 62,
+      "type": "solar_fotovoltaica",
+      "operator": "Acciona",
+      "start_year": 2008,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Beja"
+    },
+    {
+      "name": "Central Solar Fotovoltaica Ourika!",
+      "location": "Beja",
+      "coordinates": {
+        "lat": 38.05,
+        "lon": -7.3
+      },
+      "capacity_MW": 60,
+      "type": "solar_fotovoltaica",
+      "operator": "Aquila European Renewables",
+      "start_year": 2019,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Beja"
+    },
+    {
+      "name": "Central Solar da Herdade do Quintal",
+      "location": "Évora",
+      "coordinates": {
+        "lat": 38.3,
+        "lon": -7.85
+      },
+      "capacity_MW": 50,
+      "type": "solar_fotovoltaica",
+      "operator": "Energi-innovation",
+      "start_year": 2020,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Évora"
+    },
+    {
+      "name": "Central Fotovoltaica de Mogadouro",
+      "location": "Bragança",
+      "coordinates": {
+        "lat": 41.34,
+        "lon": -6.71
+      },
+      "capacity_MW": 48.99,
+      "type": "solar_fotovoltaica",
+      "operator": "Salvador Caetano",
+      "start_year": 2020,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Bragança"
+    },
+    {
+      "name": "Central Solar de Ínsua",
+      "location": "Coimbra",
+      "coordinates": {
+        "lat": 40.2,
+        "lon": -8.5
+      },
+      "capacity_MW": 48.5,
+      "type": "solar_fotovoltaica",
+      "operator": "Chint Solar",
+      "start_year": 2020,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Coimbra"
+    },
+    {
+      "name": "Central Solar Fotovoltaica de Barcos",
+      "location": "Santarém",
+      "coordinates": {
+        "lat": 39.4,
+        "lon": -8.5
+      },
+      "capacity_MW": 48,
+      "type": "solar_fotovoltaica",
+      "operator": "Aquila Clean Energy",
+      "start_year": 2020,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Santarém"
+    },
+    {
+      "name": "Central Solar de Tábua",
+      "location": "Coimbra",
+      "coordinates": {
+        "lat": 40.36,
+        "lon": -8.03
+      },
+      "capacity_MW": 48,
+      "type": "solar_fotovoltaica",
+      "operator": "Greenvolt",
+      "start_year": 2020,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Coimbra"
+    },
+    {
+      "name": "Central Solar de Morgavel",
+      "location": "Beja",
+      "coordinates": {
+        "lat": 37.8,
+        "lon": -7.7
+      },
+      "capacity_MW": 46,
+      "type": "solar_fotovoltaica",
+      "operator": "RWE Renewables Iberia",
+      "start_year": 2021,
+      "supply_regions": [
+        "Alentejo"
+      ],
+      "province": "Beja"
+    },
+    {
+      "name": "Central de Energia da Navigator Pulp Figueira",
+      "location": "Coimbra",
+      "coordinates": {
+        "lat": 40.15,
+        "lon": -8.86
+      },
+      "capacity_MW": 126,
+      "type": "biomasa",
+      "operator": "The Navigator Company",
+      "start_year": 2009,
+      "supply_regions": [
+        "Centro"
+      ],
+      "province": "Coimbra"
+    },
+    {
+      "name": "Central de Cogeração EUROPA&C Energia Viana",
+      "location": "Viana do Castelo",
+      "coordinates": {
+        "lat": 41.69,
+        "lon": -8.83
+      },
+      "capacity_MW": 104,
+      "type": "biomasa",
+      "operator": "PORTUCEL VIANA ENERGIA",
+      "start_year": 2007,
+      "supply_regions": [
+        "Norte"
+      ],
+      "province": "Viana do Castelo"
+    },
+    {
+      "name": "Central de Cogeração de Biomassa de Setúbal",
+      "location": "Setúbal",
+      "coordinates": {
+        "lat": 38.52,
+        "lon": -8.89
+      },
+      "capacity_MW": 54,
+      "type": "biomasa",
+      "operator": "The Navigator Company",
+      "start_year": 2009,
+      "supply_regions": [
+        "Lisboa e Vale do Tejo"
+      ],
+      "province": "Setúbal"
+    },
+    {
+      "name": "Central de Tratamento de Resíduos Sólidos Urbanos da Valorsul",
+      "location": "Lisboa",
+      "coordinates": {
+        "lat": 38.8,
+        "lon": -9.3
+      },
+      "capacity_MW": 51,
+      "type": "biomasa",
+      "operator": "Valorsul",
+      "start_year": 2000,
+      "supply_regions": [
+        "Lisboa e Vale do Tejo"
+      ],
+      "province": "Lisboa"
+    },
+    {
+      "name": "Central Geotérmica da Ribeira Grande",
+      "location": "Açores",
+      "coordinates": {
+        "lat": 37.82,
+        "lon": -25.51
+      },
+      "capacity_MW": 16,
+      "type": "geotérmica",
+      "operator": "Geotérmica da Ribeira Grande",
+      "start_year": 1994,
+      "supply_regions": [
+        "Açores"
+      ],
+      "province": "Açores"
+    },
+    {
+      "name": "Central Geotérmica do Pico Vermelho",
+      "location": "Açores",
+      "coordinates": {
+        "lat": 37.75,
+        "lon": -25.47
+      },
+      "capacity_MW": 12,
+      "type": "geotérmica",
+      "operator": "Geotérmica do Pico Vermelho",
+      "start_year": 2018,
+      "supply_regions": [
+        "Açores"
+      ],
+      "province": "Açores"
+    }
+  ]
+}
